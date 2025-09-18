@@ -1,0 +1,11 @@
+{
+  "access_token": "YOUR_ACCESS_TOKEN",
+  "api_key": "YOUR_API_KEY",
+  "username": "",
+  "password": "",
+  "default_values": {
+    "title": "",
+    "description": "",
+    "tags": []
+  }
+}
